@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">Art Space</string>
+    <string name="Anne">Anne</string>
+    <string name="Anne_text">Series: Anne with an E </string>
+    <string name="Daryl">Daryl Dixon</string>
+    <string name="Daryl_text">Series: The Walking Dead </string>
+    <string name="Eleven">Eleven</string>
+    <string name="Eleven_text">Series: Stranger things </string>
+    <string name="Gloria">Gloria</string>
+    <string name="Gloria_text">Series: Modern Family </string>
+    <string name="Jughead">Jughead</string>
+    <string name="Jughead_text">Series: Riverdale </string>
+    <string name="Monica">Monica Geller</string>
+    <string name="Monica_text">Series: Friends </string>
+    <string name="Pablo">Pablo Bustamante</string>
+    <string name="Pablo_text">Series: Rebelde way </string>
+    <string name="Serena">Serena van der Woodsen</string>
+    <string name="Serena_text">Series: Gossip Girl</string>
+    <string name="Sheldon">Sheldon Cooper</string>
+    <string name="Sheldon_text">Series: The big bang theory</string>
+    <string name="Tokyo">Tokyo</string>
+    <string name="Tokyo_text">Series: The house of paper</string>
+</resources>
